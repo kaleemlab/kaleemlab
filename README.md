@@ -1,4 +1,4 @@
-### hey there 
+### hey there! 
 <a target='_blank' href="https://www.instagram.com/codiest.co/">
   <img align="left" alt="Codiest Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -6,7 +6,7 @@
   <img align="left" alt="Raja Kaleem LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=kaleemlab.kaleemlab)
 
 <br />
 
