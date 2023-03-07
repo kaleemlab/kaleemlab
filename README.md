@@ -8,7 +8,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kaleemlab.kaleemlab)
 
-<br />
 Hey, I'm a Software Engineer with a passion for creativity, and problem-solving, and a devotee of new technologies (Blockchain, NFTs, Web3). With lots of professional experience in building high-performance pixel-perfect native and cross-platform applications for Android, iOS, and Web platforms using different technologies. I have learned that the most crucial thing in the application is the user's experience. I am always focused on bringing smooth user experiences, constant interaction, and snappy load times.
   
 - 💼 project to discuss? do reach me out, [email](mailto:ceo@codiest.co)
